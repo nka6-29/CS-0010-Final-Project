@@ -8,9 +8,9 @@
 * Naimah K Aldridge (nka6@pitt.edu)
 
 # Datasets:
-* https://data.wprdc.org/dataset/311-data
-* https://data.wprdc.org/dataset/arrest-data
-* https://data.wprdc.org/dataset/fire-incidents-in-city-of-pittsburgh/resource/8d76ac6b-5ae8-4428-82a4-043130d17b02
+* Dataset showing nonemergencies: https://data.wprdc.org/dataset/311-data
+* Dataset about the amount of arrest: https://data.wprdc.org/dataset/arrest-data
+* Dataset showing fire incidents: https://data.wprdc.org/dataset/fire-incidents-in-city-of-pittsburgh/resource/8d76ac6b-5ae8-4428-82a4-043130d17b02
 
 # Abstract
 Which neighborhood of Pittsburgh is the best you ask? Well what makes a neighborhood the best? As a group, we believe the best way to measure that identifying which one is the safest. The well-being and health of the citizens should be 
